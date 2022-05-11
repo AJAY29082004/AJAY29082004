@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ruthless_x.e
+- 👋 Hi, I’m Ajay Kumar Ediga
 - 👀 I’m interested in ... Unethical hacking
-- 🌱 I’m currently learning ...termux and linux
+- 🌱 I’m currently learning ...Metasploit & SQL injection
 - 💞️ I’m looking to collaborate on ... Space x
 - 📫 How to reach me ... eajay511@gmail.com
 
